@@ -1,8 +1,11 @@
 # ConvertSheetToJson
 
-Node.js v20をインストールするには、以下の方法が最も簡単で確実です。OSごとに手順を分けて紹介します。
+Google Apps Script（GAS）を使って、Google スプレッドシートのデータをJSON形式に変換します
 
 ---
+
+Node.js v20をインストールするには、以下の方法が最も簡単で確実です。OSごとに手順を分けて紹介します。
+
 
 ## 🪟 Windowsの場合
 
