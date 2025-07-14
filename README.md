@@ -147,3 +147,7 @@ clasp create --title "ConvertSheetToJson" --type sheets
 
 ---
 
+<img width="831" height="680" alt="image" src="https://github.com/user-attachments/assets/f28936e9-1055-4a51-a2af-19afb351e501" />
+
+<img width="596" height="237" alt="image" src="https://github.com/user-attachments/assets/d1adc949-5fc7-434c-957e-b170f706f7f4" />
+
