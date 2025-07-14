@@ -147,9 +147,26 @@ clasp create --title "ConvertSheetToJson" --type sheets
 
 ---
 
-<img width="831" height="680" alt="image" src="https://github.com/user-attachments/assets/f28936e9-1055-4a51-a2af-19afb351e501" />
+Google Apps Script
+
+<img width="817" height="254" alt="image" src="https://github.com/user-attachments/assets/de2f2962-9683-40d4-85e2-826181f2909b" />
+
+<img width="840" height="680" alt="image" src="https://github.com/user-attachments/assets/c105c410-6d2d-4852-ba1f-70b246e289bd" />
+
+---
+
+scriptId
 
 <img width="655" height="111" alt="image" src="https://github.com/user-attachments/assets/4aad9c4c-fe22-4dd1-89fc-bdf5559d84d2" />
 
+---
+
+clasp push
+
+<img width="556" height="89" alt="image" src="https://github.com/user-attachments/assets/a7611745-eec3-4299-ba86-5711cb1cdd7a" />
+
+---
+
 <img width="596" height="237" alt="image" src="https://github.com/user-attachments/assets/d1adc949-5fc7-434c-957e-b170f706f7f4" />
 
+---
