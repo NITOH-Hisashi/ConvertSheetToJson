@@ -175,6 +175,8 @@ clasp deploy
 
 <img width="596" height="227" alt="image" src="https://github.com/user-attachments/assets/c0ced4de-7fd0-4e8a-937d-151cf3badd86" />
 
+<img width="652" height="790" alt="2025-07-15a" src="https://github.com/user-attachments/assets/3a8e945c-36a9-449a-a1bd-d2ac3c80dfb8" />
+
 <img width="596" height="237" alt="image" src="https://github.com/user-attachments/assets/d1adc949-5fc7-434c-957e-b170f706f7f4" />
 
 ---
