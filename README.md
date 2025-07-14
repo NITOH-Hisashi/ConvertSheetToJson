@@ -167,6 +167,12 @@ clasp push
 
 ---
 
+clasp deploy
+
+<img width="919" height="128" alt="image" src="https://github.com/user-attachments/assets/0e5b47ec-96e9-46e4-a265-e59d9b20a665" />
+
+---
+
 <img width="596" height="237" alt="image" src="https://github.com/user-attachments/assets/d1adc949-5fc7-434c-957e-b170f706f7f4" />
 
 ---
