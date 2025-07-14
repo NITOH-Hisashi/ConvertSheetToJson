@@ -46,6 +46,12 @@ nvm use 20
 
 ---
 
+### 方法③：[nodesource.comが提供しているNode.jsのPPAを追加してインストールする。 ](https://redj.hatenablog.com/entry/2024/02/20/011007)
+
+```bash
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt-get install -y nodejs
+```
+
 ## ✅ インストール確認
 
 ```bash
